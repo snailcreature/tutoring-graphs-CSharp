@@ -1,0 +1,14 @@
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/bin/Debug/net8.0/GraphDemo
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/bin/Debug/net8.0/GraphDemo.deps.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/bin/Debug/net8.0/GraphDemo.runtimeconfig.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/bin/Debug/net8.0/GraphDemo.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/bin/Debug/net8.0/GraphDemo.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.AssemblyInfoInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.AssemblyInfo.cs
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.csproj.CoreCompileInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/refint/GraphDemo.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.genruntimeconfig.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/ref/GraphDemo.dll
