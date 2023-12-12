@@ -7,7 +7,7 @@ public class Vertex
     private int id;
     private int value;
 
-    private List<Vertex> Arcs;
+    private List<Vertex> Arcs = [];
 
     public Vertex(int id, int value)
     {
@@ -25,7 +25,7 @@ public class Vertex
         return this.value;
     }
 
-    public void AddArc(Vertex arcTo)
+    public void AddArc(ref Vertex arcTo)
     {
         this.Arcs.Add(arcTo);
         arcTo.AddArcDirected(this);

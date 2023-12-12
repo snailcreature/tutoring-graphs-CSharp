@@ -11,7 +11,7 @@ public class Walker
 
     public void PrintCurrentVertex()
     {
-        Console.WriteLine($"{this.CurrentVertex.GetId}: {this.CurrentVertex.GetValue}");
+        Console.WriteLine($"{this.CurrentVertex.GetId()}: {this.CurrentVertex.GetValue()}");
     }
 
     public bool WalkTo(Vertex vertex)

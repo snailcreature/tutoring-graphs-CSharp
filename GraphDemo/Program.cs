@@ -11,13 +11,13 @@ Vertex vertexE = new Vertex(4, 47);
 
 Console.WriteLine("Connecting them together...");
 
-vertexA.AddArc(vertexB);
-vertexA.AddArc(vertexE);
+vertexA.AddArc(ref vertexB);
+vertexA.AddArc(ref vertexE);
 
-vertexB.AddArc(vertexD);
-vertexB.AddArc(vertexC);
+vertexB.AddArc(ref vertexD);
+vertexB.AddArc(ref vertexC);
 
-vertexC.AddArc(vertexA);
+vertexC.AddArc(ref vertexA);
 
 Console.WriteLine("Creating Walker...");
 

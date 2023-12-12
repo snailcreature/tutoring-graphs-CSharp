@@ -12,3 +12,4 @@
 /Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.pdb
 /Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.genruntimeconfig.cache
 /Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/ref/GraphDemo.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/graphs/GraphDemo/obj/Debug/net8.0/GraphDemo.sourcelink.json
